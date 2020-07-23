@@ -21,6 +21,7 @@ the 'frontend' folder inside the laravel_sanctum_auth is the vue js files.
 
 to run this program:
    go inside the laravel_sanctum_auth, in the terminal input 'php artisan serve'
+  
   then go inside the frontend input/run 'npm run dev', then open this in the browser 'http://localhost:8080/'
 
 
